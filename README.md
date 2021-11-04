@@ -1,4 +1,4 @@
-### Hi there, I'm Burak 👋
+### Hi there, I'm Yusuf 👋
 <img src="https://miro.medium.com/max/3200/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" width="auto">
  
 ### 💻I'm a student of Computer Engineering 3/4 💻
