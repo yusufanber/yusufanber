@@ -1,6 +1,6 @@
 ### Hi there, I'm Yusuf 👋
 
-### 💻I'm a student of Computer Engineering 3/4 💻
+### 💻I'm a student of Computer Engineering 3/4
 - 🔭 <a href="https://www.https://www.linkedin.com/company/android-student-club/">Android Student Club</a> Team Member
 - 🚀 <a href= "https://www.linkedin.com/company/gdscbiruni">Google Developer Student Club Biruni</a> Mentor
 - 🥅 2021 Goals: Learn Something New
